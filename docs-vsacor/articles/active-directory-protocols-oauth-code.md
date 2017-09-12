@@ -21,7 +21,8 @@ Azure Active Directory (Azure AD) 使用 OAuth 2.0 讓您授權存取 Azure AD �
 
 如需 OAuth 2.0 授權碼流程的說明，請參閱 [OAuth 2.0 規格的 4.1 節](https://tools.ietf.org/html/rfc6749#section-4.1)。 在大多數的應用程式類型中，其用於執行驗證與授權，包括 Web Apps 和原始安裝的應用程式。
 
-[!INCLUDE [active-directory-protocols-getting-started](../../../includes/active-directory-protocols-getting-started.md)]
+<!-- [!INCLUDE [active-directory-protocols-getting-started]
+(../../../includes/active-directory-protocols-getting-started.md)] -->
 
 ## <a name="oauth-20-authorization-flow"></a>OAuth 2.0 授權流程
 概括而言，應用程式的整個授權流程看起來有點像這樣：
